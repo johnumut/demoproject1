@@ -8,6 +8,7 @@ public class ClassDemo {
 		System.out.println("Hello World");
 		System.out.println("Here are my updates about DemoClass");
 		System.out.println("A collaborator updated");
+		System.out.println("A collaborator made new updateds");
 	}
 
 }
