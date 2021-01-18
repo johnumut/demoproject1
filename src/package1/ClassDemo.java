@@ -12,6 +12,8 @@ public class ClassDemo {
 
 		System.out.println("A collaborator updated");
 
+		System.out.println("A collaborator made new updateds");
+
 	}
 
 }
